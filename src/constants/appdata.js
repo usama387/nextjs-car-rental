@@ -53,4 +53,30 @@ export const profile = [
   },
 ];
 
+// Explore component array
+
+export const exploreWorlds = [
+  {
+    id: "world-1",
+    imgUrl: "/planet-01.jpg",
+    title: "Secure, Dependable, and Opulent",
+    description:
+      "At Limolux, we understand your desires – a seasoned chauffeur behind the wheel, complemented by a flawlessly stylish ride.",
+  },
+  {
+    id: "world-2",
+    imgUrl: "/planet-02.jpg",
+    title: "Vehicles For Any Occasion",
+    description:
+      "From Unmatched Luxury to Spacious Comfort: Limolux Awaits Your Selection!",
+  },
+  {
+    id: "world-3",
+    imgUrl: "/planet-03.jpg",
+    title: "Need Wedding Transportation?",
+    description:
+      "On your wedding day, Limolux delivers the ultimate luxury ride for an unforgettable journey.",
+  },
+];
+
 
