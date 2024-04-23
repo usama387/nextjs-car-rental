@@ -80,3 +80,25 @@ export const exploreWorlds = [
 ];
 
 
+// Home cards array
+export const homeCards = [
+  {
+    img: "/home-car-1.jpg",
+    title: "Our Vision",
+    description:
+      "Transforming transportation with real-time vehicle tracking for peak efficiency and minimal downtime.",
+  },
+  {
+    img: "/car-6.jpg",
+    title: "Our Mission",
+    description:
+      "Empowering progress through innovative solutions and cutting-edge technology, our mission is to drive efficiency, enhance experiences, and create lasting value for our stakeholders.",
+  },
+  {
+    img: "/car-7.jpg",
+    title: "Our Approach",
+    description:
+      "Crafting success through a strategic and adaptive approach, we navigate challenges with creativity, innovation, and a commitment to excellence.",
+  },
+];
+
