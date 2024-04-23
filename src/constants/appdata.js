@@ -11,7 +11,7 @@ export const links = [
     exact: true,
   },
   {
-    path: "/local",
+    path: "/localTransfer",
     text: "Local Transfers",
     exact: true,
   },
